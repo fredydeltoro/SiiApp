@@ -1,4 +1,4 @@
-# Api para el sii del instituto tecnológico de México(itsjr)
+# App para el sii del instituto tecnológico de México(itsjr)
 
 Una primera aproximación a una app para el sii, con react native
 
